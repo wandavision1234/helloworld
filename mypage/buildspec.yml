@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    _PROJECT_NAME: "starcoffee-mypage" #ECR의 Repository의 명칭
+    _PROJECT_NAME: "user17-mypage" #ECR의 Repository의 명칭
 
 phases:
   install:
