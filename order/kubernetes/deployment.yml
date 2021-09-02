@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: order
-          image: 980880891166.dkr.ecr.ap-northeast-2.amazonaws.com/starcoffee-order:15
+          image: 052937454741.dkr.ecr.ap-souteast-2.amazonaws.com/user17-order:latest
           ports:
             - containerPort: 8080
           resources:
